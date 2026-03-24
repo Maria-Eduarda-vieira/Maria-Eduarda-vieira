@@ -1,10 +1,10 @@
 # 👩‍💻 Maria Eduarda Vieira
 
-🎓  Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
-💡  Apaixonada por tecnologia, inovação e aprendizado contínuo  
+🎓  Estudante de Técnico em Desenvolvimento de Sistemas no SENAI A Jacob Lafer
+ ★  Sou apaixonada por aprender cada vez mais sobre tecnologia, 
 ---
 # ✨ Sobre mim
-Olá! Eu sou a Maria Eduarda, no momento estou em formação do curso técnico na área de desenvolvimento de sistemas, construindo a minha base em  Gosto de transformar ideias em soluções reais e estou sempre buscando evoluir minhas habilidades técnicas e criativas.
+Olá! Eu sou a Maria Eduarda, no momento estou em formação do curso técnico na área de desenvolvimento de sistemas, construindo a minha base de lógica e programação. Gosto de me desafiar a sempre produzir trabalhos gradativamente profissionais
 
 ---
 
