@@ -1,4 +1,4 @@
-# 👩‍💻 Maria Eduarda Vieira
+#  Maria Eduarda Vieira
 
 🎓  Estudante de Técnico em Desenvolvimento de Sistemas no SENAI A Jacob Lafer
  ★  Sou apaixonada por aprender cada vez mais sobre tecnologia, 
