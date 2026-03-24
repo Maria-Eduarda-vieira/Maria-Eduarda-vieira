@@ -1,16 +1,44 @@
-# Maria Eduarda Vieira
+# 👩‍💻 Maria Eduarda Vieira
 
-<!--
-**Maria-Eduarda-vieira/Maria-Eduarda-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Estudante de Técnico em Desenvolvimento de Sistemas no SENAI  
+💡  Apaixonada por tecnologia, inovação e aprendizado contínuo  
+---
+# ✨ Sobre mim
+Olá! Eu sou a Maria Eduarda, no momento estou em formação do curso técnico na área de desenvolvimento de sistemas, construindo a minha base em  Gosto de transformar ideias em soluções reais e estou sempre buscando evoluir minhas habilidades técnicas e criativas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+- 💻 Lógica de Programação  
+- 🌐 HTML, CSS e JavaScript  
+- 🗄️ Banco de Dados (SQL)  
+- ⚙️ Git e GitHub  
+- 🧩 Desenvolvimento de Sistemas  
+
+---
+
+## 📚 Atualmente aprendendo
+
+- Estrutura de Dados  
+- Desenvolvimento Web  
+- Boas práticas de programação  
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar uma desenvolvedora completa  
+- Participar de projetos reais  
+- Contribuir com a comunidade de tecnologia  
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: seuemail@email.com  
+- 💼 LinkedIn: (adicione aqui quando tiver)
+
+---
+
+⭐ _“Sempre aprendendo, sempre evoluindo.”_
