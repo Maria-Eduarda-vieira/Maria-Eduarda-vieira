@@ -2,7 +2,7 @@
 
 
 # 🎓✨ $\color{red}{\text{Sobre Mim}}$ 
-Olá! Eu sou a Maria Eduarda, tenho 16 anos e no momento estou cursando Técnico em Desenvolvimento de Sistemas no SENAI, construindo a minha base de lógica e programação. Atualmente, Gosto de me desafiar a sempre produzir trabalhos gradativamente profissionais e crescer meu currículo para o mercado de trabalho
+Olá! Eu sou a Maria Eduarda, tenho 16 anos e no momento estou cursando Técnico em Desenvolvimento de Sistemas no SENAI, construindo a minha base de lógica e programação. Atualmente, estudo matérias como Ler (Levantamento de Requisitos), Sop ( Sistemas Operacionais), Ari (Arquirtetura de redes) e Lopal (Lógica de programação). Gosto de me desafiar a sempre produzir trabalhos gradativamente profissionais e crescer meu currículo para o mercado de trabalho. 
 
 
 ##  $\color{red}{\text{Meus Objetivos}}$ 
