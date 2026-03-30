@@ -21,17 +21,4 @@ Olá! Eu sou a Maria Eduarda, tenho 16 anos e no momento estou cursando Técnico
 
 ---
 
-script>
-let texto = "Construindo meus sonhos";
-let i = 0;
 
-function escrever() {
-  if (i < texto.length) {
-    document.getElementById("texto").innerHTML += texto.charAt(i);
-    i++;
-    setTimeout(escrever, 100);
-  }
-}
-
-escrever();
-</script>
