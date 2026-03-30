@@ -17,7 +17,7 @@ Olá! Eu sou a Maria Eduarda, tenho 16 anos e no momento estou cursando Técnico
 
 
 - ✉️ Email: mahvieira2010@gmail.com  
-- 💼 LinkedIn: 
+
 
 ---
 
