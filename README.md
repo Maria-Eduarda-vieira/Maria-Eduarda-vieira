@@ -19,7 +19,7 @@ Olá! Eu sou a Maria Eduarda, tenho 16 anos e no momento estou cursando Técnico
 - ✉️ Email: mahvieira2010@gmail.com  
 :
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-vieira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-vieira-b2a430401/)
 
 ---
 
